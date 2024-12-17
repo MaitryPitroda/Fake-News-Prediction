@@ -6,7 +6,7 @@ With the rise of digital media, the spread of fake news has become a major conce
 Python,
 NLP Libraries: NLTK, Scikit-learn,
 Machine Learning: Logistic Regression,
-Dataset: Fake News Dataset (Kaggle)
+Dataset: https://www.kaggle.com/c/fake-news/data?select=train.csv (Kaggle)
 
 => Work Flow
 1. Data Collection: Gather a dataset of labeled ne ws articles
