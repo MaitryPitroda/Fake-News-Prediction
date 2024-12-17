@@ -3,10 +3,9 @@ With the rise of digital media, the spread of fake news has become a major conce
 
 
 🔧 Tech Stack :
-Python
-NLP Libraries: NLTK, Scikit-learn
-Machine Learning: Logistic Regression
-Data Visualization: Matplotlib
+Python,
+NLP Libraries: NLTK, Scikit-learn,
+Machine Learning: Logistic Regression,
 Dataset: Fake News Dataset (Kaggle)
 
 => Work Flow
